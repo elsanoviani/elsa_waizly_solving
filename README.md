@@ -2,4 +2,4 @@
 
 if run in vs code 
 
-node <name file> 
+node name file
